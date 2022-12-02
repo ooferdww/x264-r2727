@@ -14,3 +14,5 @@ Build instructions:
 9) CC=cl ./configure --enable-static --prefix=${PWD}/installed && make && make install
 
 If you've done everything correctly, x264.exe will be dropped into RepositoryClone/installed/bin
+
+10) OPTIONAL -- Pack executable with upx -9 --ultra-brute x264.exe
