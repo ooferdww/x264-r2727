@@ -1,5 +1,5 @@
 # x264-r2727
-x264 r2727 w/ mbtree overhead fix
+x264 r2727 fork
 
 Build instructions:
 
