@@ -1,5 +1,5 @@
 # x264-r2727
-x264 r2727 fork
+x264 r2727 fork with the intention of encoding for media server.
 
 Build instructions:
 
